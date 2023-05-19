@@ -25,8 +25,6 @@ Check your app's UI from the AppNavigation screen of your app.
 
 ### Struktur
 
-After successful build, your application structure should look like this:
-
 ```
 .
 ├── android                         - contains files and folders required for running the application on an Android operating system.
