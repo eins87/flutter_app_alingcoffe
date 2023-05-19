@@ -69,4 +69,4 @@ Check your app's UI from the AppNavigation screen of your app.
 
 ### Support
 
-<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' /><a href='https://www.linkedin.com/in/erwin-indrawan-7a1b3b1a5/' target='_blank'>Erwin Indrawan</a>
+<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>andi</img>
