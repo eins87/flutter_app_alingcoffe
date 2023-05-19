@@ -63,7 +63,7 @@ Check your app's UI from the AppNavigation screen of your app.
 
 ### Screenshots
 
-<img src="https://github.com/sidik-dev/flutter_app_template/blob/main/screenshots/1.png" width="200" />
+<img src="https://github.com/eins87/flutter_app_alingcoffe/blob/main/screenshoots/demo.gif" width="200" />
 
 ### Cara Menjalankan
 
