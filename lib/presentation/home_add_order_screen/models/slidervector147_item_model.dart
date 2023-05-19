@@ -1,0 +1,1 @@
+class Slidervector147ItemModel {}
