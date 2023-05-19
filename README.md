@@ -12,7 +12,7 @@ AlingCoffe adalah sebuah aplikasi mobile inovatif yang dirancang untuk memudahka
 - [Library dan tool yang digunakan](#library-dan-tool-yang-digunakan)
 - [Screenshots](#screenshots)
 - [Cara Menjalakan](#cara-menjalankan)
-- [Support](#support)
+- [Kontak](#kontak)
 
 ### Kebutuhan System
 
