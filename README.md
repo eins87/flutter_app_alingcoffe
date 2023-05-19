@@ -1,44 +1,29 @@
+## AlingCoffe
 
-# cintia_s_application1
-
-<div>
-  <h1 align="center">Getting Started with Flutter 🚀 </h1>
-  <strong>
-    Generated with ❤️ from DhiWise
-  </strong>
-  <p>
-    This is the documentation of Flutter Applications.
-    It contains all the information you need to get started with
-    and make changes to your App
-  </p>
-</div>
-
+<p>
+AlingCoffe adalah sebuah aplikasi mobile inovatif yang dirancang untuk memudahkan pengguna dalam pembelian minuman seperti kopi dan varian lainnya. Dengan tampilan yang menarik dan antarmuka pengguna yang intuitif.
+</p>
 
 ### Table of Contents
-- [System Requirements](#system-requirements)
-- [Figma design guidelines for better accuracy](#figma-design-guideline-for-better-accuracy)
-- [App Navigations](#app-navigations)
-- [Project Structure](#project-structure)
-- [How you can do code formatting?](#how-you-can-do-code-formatting)
-- [How you can improve the readability of code?](#how-you-can-improve-the-readability-of-code)
-- [Libraries and tools used](#libraries-and-tools-used)
+
+- [Kebutuhan System](#kebutuhan-system)
+- [Navigasi](#navigations)
+- [Struktur](#struktur)
+- [Library dan tool yang digunakan](#library-dan-tool-yang-digunakan)
+- [Screenshots](#screenshots)
+- [Cara Menjalakan](#cara-menjalankan)
 - [Support](#support)
 
-### System Requirements
+### Kebutuhan System
 
 Dart SDK Version 2.17.0 or greater.
 Flutter SDK Version 3.0.0 or greater.
 
-### Figma design guidelines for better accuracy
-
-Read our guidelines to increase the accuracy of design conversion to code by optimizing Figma designs.
-https://docs.dhiwise.com/docs/Designguidelines/intro
-
-### App Navigations
+### Navigasi
 
 Check your app's UI from the AppNavigation screen of your app.
 
-### Project Structure
+### Struktur
 
 After successful build, your application structure should look like this:
 
@@ -50,14 +35,14 @@ After successful build, your application structure should look like this:
 ├── lib                             - Most important folder in the project, used to write most of the Dart code.
     ├── main.dart                   - starting point of the application
     ├── core
-    │   ├── app_export.dart         - contains commonly used file imports 
+    │   ├── app_export.dart         - contains commonly used file imports
     │   ├── constants               - contains all constants classes
-    │   ├── errors                  - contains error handling classes                  
+    │   ├── errors                  - contains error handling classes
     │   ├── network                 - contains network related classes
     │   └── utils                   - contains common files and utilities of project
     ├── data
-    │   ├── apiClient               - contains API calling methods 
-    │   ├── models                  - contains request/response models 
+    │   ├── apiClient               - contains API calling methods
+    │   ├── models                  - contains request/response models
     │   └── repository              - network repository
     ├── localization                - contains localization classes
     ├── presentation                - contains all screens and screen controllers
@@ -67,18 +52,7 @@ After successful build, your application structure should look like this:
     └── widgets                     - contains all custom widget classes
 ```
 
-### How you can do code formatting?
-
-- if your code is not formatted then run following command in your terminal to format code
-  ```
-  dart format .
-  ```
-
-### How you can improve the readability of code?
-
-Resolve the errors and warnings that are shown in the application.
-
-### Libraries and tools used
+### Library dan tool yang digunakan
 
 - get - State management
   https://pub.dev/packages/get
@@ -88,7 +62,11 @@ Resolve the errors and warnings that are shown in the application.
   https://pub.dev/packages/shared_preferences
 - cached_network_image - For storing internet image into cache
   https://pub.dev/packages/cached_network_image
-    
+
+### Screenshots
+
+### Cara Menjalankan
+
 ### Support
 
 If you have problems or questions go to our Discord channel, we will then try to help you as quickly as possible: https://discord.com/invite/rFMnCG5MZ7
