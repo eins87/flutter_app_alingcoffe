@@ -69,4 +69,4 @@ Check your app's UI from the AppNavigation screen of your app.
 
 ### Support
 
-- Website at <a href="https://www.alingcoffe.com" target="_blank">`AlingCoffe`</a>
+<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' /> https://www.linkedin.com/in/erwin-indrawan-7a1b3b1a5/
