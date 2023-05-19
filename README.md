@@ -7,7 +7,6 @@ AlingCoffe adalah sebuah aplikasi mobile inovatif yang dirancang untuk memudahka
 ### Table of Contents
 
 - [Kebutuhan System](#kebutuhan-system)
-- [Struktur](#struktur)
 - [Library dan tool yang digunakan](#library-dan-tool-yang-digunakan)
 - [Screenshots](#screenshots)
 - [Cara Menjalakan](#cara-menjalankan)
@@ -18,12 +17,6 @@ AlingCoffe adalah sebuah aplikasi mobile inovatif yang dirancang untuk memudahka
 ```
 Dart SDK Version 2.17.0 or greater.
 Flutter SDK Version 3.0.0 or greater.
-```
-
-### Struktur
-
-```
-
 ```
 
 ### Library dan tool yang digunakan
@@ -42,6 +35,20 @@ Flutter SDK Version 3.0.0 or greater.
 <img src="https://github.com/eins87/flutter_app_alingcoffe/blob/main/screenshoots/demo.gif" width="148" />
 
 ### Cara Menjalankan
+
+```
+# clone repo
+git clone https://github.com/eins87/flutter_app_alingcoffe
+
+# pindah ke direktori yang di clone
+cd flutter_app_alingcoffe
+
+# download library yang dibutuhkan
+flutter pub get
+
+# jalankan aplikasi
+flutter run
+```
 
 ### Kontak
 
