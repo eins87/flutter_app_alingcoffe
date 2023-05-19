@@ -7,7 +7,6 @@ AlingCoffe adalah sebuah aplikasi mobile inovatif yang dirancang untuk memudahka
 ### Table of Contents
 
 - [Kebutuhan System](#kebutuhan-system)
-- [Navigasi](#navigations)
 - [Struktur](#struktur)
 - [Library dan tool yang digunakan](#library-dan-tool-yang-digunakan)
 - [Screenshots](#screenshots)
@@ -16,12 +15,10 @@ AlingCoffe adalah sebuah aplikasi mobile inovatif yang dirancang untuk memudahka
 
 ### Kebutuhan System
 
-Dart SDK Version 2.17.0 or greater.  
+```
+Dart SDK Version 2.17.0 or greater.
 Flutter SDK Version 3.0.0 or greater.
-
-### Navigasi
-
-Check your app's UI from the AppNavigation screen of your app.
+```
 
 ### Struktur
 
