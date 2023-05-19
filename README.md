@@ -54,11 +54,11 @@ Check your app's UI from the AppNavigation screen of your app.
 
 - get - State management
   https://pub.dev/packages/get
-- connectivity_plus - For status of network connectivity
+- connectivity_plus - network connectivity
   https://pub.dev/packages/connectivity_plus
-- shared_preferences - Provide persistent storage for simple data
+- shared_preferences - Storage
   https://pub.dev/packages/shared_preferences
-- cached_network_image - For storing internet image into cache
+- cached_network_image - Cached image
   https://pub.dev/packages/cached_network_image
 
 ### Screenshots

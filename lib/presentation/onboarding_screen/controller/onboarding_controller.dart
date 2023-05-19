@@ -1,5 +1,3 @@
-import 'package:flutter/animation.dart';
-
 import '/core/app_export.dart';
 import 'package:alingcoffe_app/presentation/onboarding_screen/models/onboarding_model.dart';
 

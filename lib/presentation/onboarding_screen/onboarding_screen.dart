@@ -1,5 +1,3 @@
-import 'package:animate_do/animate_do.dart';
-
 import 'controller/onboarding_controller.dart';
 import 'package:alingcoffe_app/core/app_export.dart';
 import 'package:flutter/material.dart';
