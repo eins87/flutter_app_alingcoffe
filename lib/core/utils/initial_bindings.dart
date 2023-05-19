@@ -1,5 +1,5 @@
-import 'package:cintia_s_application1/core/app_export.dart';
-import 'package:cintia_s_application1/data/apiClient/api_client.dart';
+import 'package:alingcoffe_app/core/app_export.dart';
+import 'package:alingcoffe_app/data/apiClient/api_client.dart';
 
 class InitialBindings extends Bindings {
   @override

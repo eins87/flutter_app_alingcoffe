@@ -1,9 +1,9 @@
 import 'controller/track_order_two_controller.dart';
-import 'package:cintia_s_application1/core/app_export.dart';
-import 'package:cintia_s_application1/presentation/home_screen/home_page.dart';
-import 'package:cintia_s_application1/presentation/track_order_three_page/track_order_three_page.dart';
-import 'package:cintia_s_application1/widgets/custom_bottom_bar.dart';
-import 'package:cintia_s_application1/widgets/custom_button.dart';
+import 'package:alingcoffe_app/core/app_export.dart';
+import 'package:alingcoffe_app/presentation/home_screen/home_page.dart';
+import 'package:alingcoffe_app/presentation/track_order_three_page/track_order_three_page.dart';
+import 'package:alingcoffe_app/widgets/custom_bottom_bar.dart';
+import 'package:alingcoffe_app/widgets/custom_button.dart';
 import 'package:flutter/material.dart';
 
 class TrackOrderTwoScreen extends GetWidget<TrackOrderTwoController> {

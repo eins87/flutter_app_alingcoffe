@@ -3,10 +3,10 @@
 import 'package:flutter/gestures.dart';
 
 import 'controller/login_controller.dart';
-import 'package:cintia_s_application1/core/app_export.dart';
-import 'package:cintia_s_application1/core/utils/validation_functions.dart';
-import 'package:cintia_s_application1/widgets/custom_button.dart';
-import 'package:cintia_s_application1/widgets/custom_text_form_field.dart';
+import 'package:alingcoffe_app/core/app_export.dart';
+import 'package:alingcoffe_app/core/utils/validation_functions.dart';
+import 'package:alingcoffe_app/widgets/custom_button.dart';
+import 'package:alingcoffe_app/widgets/custom_text_form_field.dart';
 import 'package:flutter/material.dart';
 
 class LoginScreen extends GetWidget<LoginController> {

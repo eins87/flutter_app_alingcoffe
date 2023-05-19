@@ -1,11 +1,11 @@
 import '../home_filter_rating_screen/widgets/listellipsetwentysix2_item_widget.dart';
 import 'controller/home_filter_rating_controller.dart';
 import 'models/listellipsetwentysix2_item_model.dart';
-import 'package:cintia_s_application1/core/app_export.dart';
-import 'package:cintia_s_application1/presentation/home_screen/home_page.dart';
-import 'package:cintia_s_application1/presentation/track_order_three_page/track_order_three_page.dart';
-import 'package:cintia_s_application1/widgets/custom_bottom_bar.dart';
-import 'package:cintia_s_application1/widgets/custom_search_view.dart';
+import 'package:alingcoffe_app/core/app_export.dart';
+import 'package:alingcoffe_app/presentation/home_screen/home_page.dart';
+import 'package:alingcoffe_app/presentation/track_order_three_page/track_order_three_page.dart';
+import 'package:alingcoffe_app/widgets/custom_bottom_bar.dart';
+import 'package:alingcoffe_app/widgets/custom_search_view.dart';
 import 'package:flutter/material.dart';
 
 class HomeFilterRatingScreen extends GetWidget<HomeFilterRatingController> {

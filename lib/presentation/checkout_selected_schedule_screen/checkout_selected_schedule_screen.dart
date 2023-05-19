@@ -1,8 +1,8 @@
 import '../checkout_selected_schedule_screen/widgets/listassoonasposs_item_widget.dart';
 import 'controller/checkout_selected_schedule_controller.dart';
 import 'models/listassoonasposs_item_model.dart';
-import 'package:cintia_s_application1/core/app_export.dart';
-import 'package:cintia_s_application1/widgets/custom_button.dart';
+import 'package:alingcoffe_app/core/app_export.dart';
+import 'package:alingcoffe_app/widgets/custom_button.dart';
 import 'package:flutter/material.dart';
 
 class CheckoutSelectedScheduleScreen

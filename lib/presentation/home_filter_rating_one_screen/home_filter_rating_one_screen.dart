@@ -4,11 +4,11 @@ import 'controller/home_filter_rating_one_controller.dart';
 import 'models/listellipsetwentysix1_item_model.dart';
 import 'models/slidervector146_item_model.dart';
 import 'package:carousel_slider/carousel_slider.dart';
-import 'package:cintia_s_application1/core/app_export.dart';
-import 'package:cintia_s_application1/presentation/home_screen/home_page.dart';
-import 'package:cintia_s_application1/presentation/track_order_three_page/track_order_three_page.dart';
-import 'package:cintia_s_application1/widgets/custom_bottom_bar.dart';
-import 'package:cintia_s_application1/widgets/custom_search_view.dart';
+import 'package:alingcoffe_app/core/app_export.dart';
+import 'package:alingcoffe_app/presentation/home_screen/home_page.dart';
+import 'package:alingcoffe_app/presentation/track_order_three_page/track_order_three_page.dart';
+import 'package:alingcoffe_app/widgets/custom_bottom_bar.dart';
+import 'package:alingcoffe_app/widgets/custom_search_view.dart';
 import 'package:flutter/material.dart';
 import 'package:smooth_page_indicator/smooth_page_indicator.dart';
 

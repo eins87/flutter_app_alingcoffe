@@ -1,5 +1,5 @@
 import '/core/app_export.dart';
-import 'package:cintia_s_application1/presentation/voucher_pilih_screen/models/voucher_pilih_model.dart';
+import 'package:alingcoffe_app/presentation/voucher_pilih_screen/models/voucher_pilih_model.dart';
 import 'package:flutter/material.dart';
 
 class VoucherPilihController extends GetxController {

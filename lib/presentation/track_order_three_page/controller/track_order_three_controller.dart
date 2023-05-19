@@ -1,5 +1,5 @@
 import '/core/app_export.dart';
-import 'package:cintia_s_application1/presentation/track_order_three_page/models/track_order_three_model.dart';
+import 'package:alingcoffe_app/presentation/track_order_three_page/models/track_order_three_model.dart';
 
 class TrackOrderThreeController extends GetxController {
   TrackOrderThreeController(this.trackOrderThreeModelObj);

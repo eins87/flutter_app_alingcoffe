@@ -1,6 +1,6 @@
 import 'controller/track_order_three_controller.dart';
 import 'models/track_order_three_model.dart';
-import 'package:cintia_s_application1/core/app_export.dart';
+import 'package:alingcoffe_app/core/app_export.dart';
 import 'package:flutter/material.dart';
 
 // ignore_for_file: must_be_immutable

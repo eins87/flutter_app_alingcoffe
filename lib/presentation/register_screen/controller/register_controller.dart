@@ -1,5 +1,5 @@
 import '/core/app_export.dart';
-import 'package:cintia_s_application1/presentation/register_screen/models/register_model.dart';
+import 'package:alingcoffe_app/presentation/register_screen/models/register_model.dart';
 import 'package:flutter/material.dart';
 
 class RegisterController extends GetxController {

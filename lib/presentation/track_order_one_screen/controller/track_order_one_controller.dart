@@ -1,5 +1,5 @@
 import '/core/app_export.dart';
-import 'package:cintia_s_application1/presentation/track_order_one_screen/models/track_order_one_model.dart';
+import 'package:alingcoffe_app/presentation/track_order_one_screen/models/track_order_one_model.dart';
 
 class TrackOrderOneController extends GetxController {
   Rx<TrackOrderOneModel> trackOrderOneModelObj = TrackOrderOneModel().obs;

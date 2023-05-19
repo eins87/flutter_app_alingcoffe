@@ -1,6 +1,6 @@
 import '/core/app_export.dart';
-import 'package:cintia_s_application1/presentation/home_filter_rating_one_screen/models/home_filter_rating_one_model.dart';
-import 'package:cintia_s_application1/widgets/custom_bottom_bar.dart';
+import 'package:alingcoffe_app/presentation/home_filter_rating_one_screen/models/home_filter_rating_one_model.dart';
+import 'package:alingcoffe_app/widgets/custom_bottom_bar.dart';
 import 'package:flutter/material.dart';
 
 class HomeFilterRatingOneController extends GetxController {

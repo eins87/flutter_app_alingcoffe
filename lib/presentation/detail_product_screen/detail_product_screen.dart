@@ -3,9 +3,9 @@ import '../detail_product_screen/widgets/listitem_two_item_widget.dart';
 import 'controller/detail_product_controller.dart';
 import 'models/listextraexpressso_item_model.dart';
 import 'models/listitem_two_item_model.dart';
-import 'package:cintia_s_application1/core/app_export.dart';
-import 'package:cintia_s_application1/widgets/custom_button.dart';
-import 'package:cintia_s_application1/widgets/custom_text_form_field.dart';
+import 'package:alingcoffe_app/core/app_export.dart';
+import 'package:alingcoffe_app/widgets/custom_button.dart';
+import 'package:alingcoffe_app/widgets/custom_text_form_field.dart';
 import 'package:flutter/material.dart';
 
 class DetailProductScreen extends GetWidget<DetailProductController> {

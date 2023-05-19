@@ -1,5 +1,5 @@
 import '/core/app_export.dart';
-import 'package:cintia_s_application1/presentation/splashscreen_screen/models/splashscreen_model.dart';
+import 'package:alingcoffe_app/presentation/splashscreen_screen/models/splashscreen_model.dart';
 
 class SplashscreenController extends GetxController {
   Rx<SplashscreenModel> splashscreenModelObj = SplashscreenModel().obs;

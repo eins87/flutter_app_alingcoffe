@@ -1,5 +1,5 @@
 import '/core/app_export.dart';
-import 'package:cintia_s_application1/presentation/detail_product_screen/models/detail_product_model.dart';
+import 'package:alingcoffe_app/presentation/detail_product_screen/models/detail_product_model.dart';
 import 'package:flutter/material.dart';
 
 class DetailProductController extends GetxController {

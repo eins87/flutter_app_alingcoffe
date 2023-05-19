@@ -1,8 +1,8 @@
 import '../voucher_pilih_screen/widgets/voucher_pilih_item_widget.dart';
 import 'controller/voucher_pilih_controller.dart';
 import 'models/voucher_pilih_item_model.dart';
-import 'package:cintia_s_application1/core/app_export.dart';
-import 'package:cintia_s_application1/widgets/custom_text_form_field.dart';
+import 'package:alingcoffe_app/core/app_export.dart';
+import 'package:alingcoffe_app/widgets/custom_text_form_field.dart';
 import 'package:flutter/material.dart';
 
 class VoucherPilihScreen extends GetWidget<VoucherPilihController> {

@@ -1,5 +1,5 @@
 import '/core/app_export.dart';
-import 'package:cintia_s_application1/presentation/onboarding_one_screen/models/onboarding_one_model.dart';
+import 'package:alingcoffe_app/presentation/onboarding_one_screen/models/onboarding_one_model.dart';
 
 class OnboardingOneController extends GetxController {
   Rx<OnboardingOneModel> onboardingOneModelObj = OnboardingOneModel().obs;

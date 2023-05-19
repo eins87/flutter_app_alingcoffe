@@ -1,5 +1,5 @@
 import '/core/app_export.dart';
-import 'package:cintia_s_application1/presentation/pop_up_screen/models/pop_up_model.dart';
+import 'package:alingcoffe_app/presentation/pop_up_screen/models/pop_up_model.dart';
 
 class PopUpController extends GetxController {
   Rx<PopUpModel> popUpModelObj = PopUpModel().obs;

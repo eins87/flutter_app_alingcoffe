@@ -1,5 +1,5 @@
 import '/core/app_export.dart';
-import 'package:cintia_s_application1/presentation/konfirm_kode_otp_screen/models/konfirm_kode_otp_model.dart';
+import 'package:alingcoffe_app/presentation/konfirm_kode_otp_screen/models/konfirm_kode_otp_model.dart';
 import 'package:sms_autofill/sms_autofill.dart';
 import 'package:flutter/material.dart';
 

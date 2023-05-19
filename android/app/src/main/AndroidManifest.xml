@@ -10,7 +10,7 @@
 
 
     <application
-        android:label="cintia_s_application1"
+        android:label="alingcoffe_app"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

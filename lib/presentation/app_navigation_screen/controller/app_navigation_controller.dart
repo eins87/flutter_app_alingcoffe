@@ -1,5 +1,5 @@
 import '/core/app_export.dart';
-import 'package:cintia_s_application1/presentation/app_navigation_screen/models/app_navigation_model.dart';
+import 'package:alingcoffe_app/presentation/app_navigation_screen/models/app_navigation_model.dart';
 
 class AppNavigationController extends GetxController {
   Rx<AppNavigationModel> appNavigationModelObj = AppNavigationModel().obs;

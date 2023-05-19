@@ -1,5 +1,5 @@
 import 'controller/onboarding_one_controller.dart';
-import 'package:cintia_s_application1/core/app_export.dart';
+import 'package:alingcoffe_app/core/app_export.dart';
 import 'package:flutter/material.dart';
 import 'package:smooth_page_indicator/smooth_page_indicator.dart';
 

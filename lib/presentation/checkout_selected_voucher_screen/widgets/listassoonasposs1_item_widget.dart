@@ -1,6 +1,6 @@
 import '../controller/checkout_selected_voucher_controller.dart';
 import '../models/listassoonasposs1_item_model.dart';
-import 'package:cintia_s_application1/core/app_export.dart';
+import 'package:alingcoffe_app/core/app_export.dart';
 import 'package:flutter/material.dart';
 
 // ignore: must_be_immutable

@@ -3,7 +3,7 @@
 import 'package:flutter/animation.dart';
 import 'package:rive/rive.dart';
 import '/core/app_export.dart';
-import 'package:cintia_s_application1/presentation/splashscreen_one_screen/models/splashscreen_one_model.dart';
+import 'package:alingcoffe_app/presentation/splashscreen_one_screen/models/splashscreen_one_model.dart';
 
 class SplashscreenOneController extends GetxController
     with SingleGetTickerProviderMixin {

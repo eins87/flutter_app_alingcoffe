@@ -1,5 +1,5 @@
 import '/core/app_export.dart';
-import 'package:cintia_s_application1/presentation/voucher_screen/models/voucher_model.dart';
+import 'package:alingcoffe_app/presentation/voucher_screen/models/voucher_model.dart';
 import 'package:flutter/material.dart';
 
 class VoucherController extends GetxController {

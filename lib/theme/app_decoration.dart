@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:cintia_s_application1/core/app_export.dart';
+import 'package:alingcoffe_app/core/app_export.dart';
 
 class AppDecoration {
   static BoxDecoration get fillGray805 => BoxDecoration(

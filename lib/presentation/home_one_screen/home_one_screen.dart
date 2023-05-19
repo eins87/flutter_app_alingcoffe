@@ -1,5 +1,5 @@
 import 'controller/home_one_controller.dart';
-import 'package:cintia_s_application1/core/app_export.dart';
+import 'package:alingcoffe_app/core/app_export.dart';
 import 'package:flutter/material.dart';
 
 class HomeOneScreen extends GetWidget<HomeOneController> {
