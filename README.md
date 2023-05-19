@@ -36,6 +36,8 @@ Flutter SDK Version 3.0.0 or greater.
 
 ### Cara Menjalankan
 
+<p>Sebelum menjalankan aplikasi, pastikan android emulator sudah berjalan, atau jalankan emulator melalui VS Code</p>
+
 ```
 # clone repo
 git clone https://github.com/eins87/flutter_app_alingcoffe
