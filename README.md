@@ -63,8 +63,10 @@ Check your app's UI from the AppNavigation screen of your app.
 
 ### Screenshots
 
+<img src="https://github.com/sidik-dev/flutter_app_template/blob/main/screenshots/1.png" width="200" />
+
 ### Cara Menjalankan
 
 ### Support
 
-If you have problems or questions go to our Discord channel, we will then try to help you as quickly as possible: https://discord.com/invite/rFMnCG5MZ7
+- Website at <a href="https://www.alingcoffe.com" target="_blank">`AlingCoffe`</a>
