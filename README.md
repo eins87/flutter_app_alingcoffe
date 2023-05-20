@@ -42,7 +42,6 @@ Flutter SDK Version 3.0.0 or greater.
 # clone repo
 git clone https://github.com/eins87/flutter_app_alingcoffe
 
-# pindah ke direktori yang di clone
 cd flutter_app_alingcoffe
 
 # download library yang dibutuhkan
