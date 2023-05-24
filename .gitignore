@@ -1,17 +1,9 @@
-<<<<<<< HEAD
-/.dart_tool/
-/.idea/
-/build/
-/.vscode/
-!/pubspec.lock
-!/.packages
-!/.flutter-plugins-dependencies
-!/.flutter-plugins
-=======
 # See https://www.dartlang.org/guides/libraries/private-files
 
 # Files and directories created by pub
 .dart_tool/
+.idea/
+.vscode/
 .packages
 build/
 # If you're building an application, you may want to check-in your pubspec.lock
@@ -35,4 +27,3 @@ doc/api/
 
 .flutter-plugins
 .flutter-plugins-dependencies
->>>>>>> f8c8d008ef3291fed2dd87f5b6840e4df5f6e416
