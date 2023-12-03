@@ -1,4 +1,4 @@
-<center><img src="https://github.com/eins87/flutter_app_alingcoffe/blob/main/screenshoots/sc.png" width="500" /></center>
+<img src="https://github.com/eins87/flutter_app_alingcoffe/blob/main/screenshoots/sc.png" width="500" />
 
 ## AlingCoffe
 
