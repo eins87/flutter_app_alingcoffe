@@ -1,25 +1,25 @@
 ## AlingCoffe
 
 <p>
-AlingCoffe adalah sebuah aplikasi mobile inovatif yang dirancang untuk memudahkan pengguna dalam pembelian minuman seperti kopi dan varian lainnya. Dengan tampilan yang menarik dan antarmuka pengguna yang intuitif.
+AlingCoffe is an innovative mobile application designed to make it easier for users to purchase beverages such as coffee and other variants.
 </p>
 
 ### Table of Contents
 
-- [Kebutuhan System](#kebutuhan-system)
-- [Library dan tool yang digunakan](#library-dan-tool-yang-digunakan)
+- [System Sequirements](#system-requirements)
+- [Libraries and tools used](#libraries-and-tools-used)
 - [Screenshots](#screenshots)
-- [Cara Menjalakan](#cara-menjalankan)
-- [Kontak](#kontak)
+- [How to Run](#how-to-run)
+- [Contact Me](#contactme)
 
-### Kebutuhan System
+### System Requirements
 
 ```
 Dart SDK Version 2.17.0 or greater.
 Flutter SDK Version 3.0.0 or greater.
 ```
 
-### Library dan tool yang digunakan
+### Libraries and tools used
 
 - get - State management
   https://pub.dev/packages/get
@@ -34,9 +34,9 @@ Flutter SDK Version 3.0.0 or greater.
 
 <img src="https://github.com/eins87/flutter_app_alingcoffe/blob/main/screenshoots/demo.gif" width="148" />
 
-### Cara Menjalankan
+### How to Run
 
-<p>Sebelum menjalankan aplikasi, pastikan android emulator sudah berjalan, atau jalankan emulator melalui VS Code</p>
+<p>Before running the application, make sure the android emulator is running, or run the emulator via VS Code</p>
 
 ```
 # clone repo
@@ -44,13 +44,13 @@ git clone https://github.com/eins87/flutter_app_alingcoffe
 
 cd flutter_app_alingcoffe
 
-# download library yang dibutuhkan
+# download the required library
 flutter pub get
 
-# jalankan aplikasi
+# run the app
 flutter run
 ```
 
-### Kontak
+### Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andiwinata87/)
